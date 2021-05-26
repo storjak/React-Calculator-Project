@@ -2,7 +2,7 @@
 
 I left the original create-react-app readme intact, other than adding this part.
 
-This project was when I was first learning react.  Looking back on it there are a few things I could have done better, like more functions and less code in the main stack, but oh well.  I was learning.  I'll keep it so I can look back on it.
+This project was when I was first learning React from the freeCodeCamp program.  Looking back on it there are a few things I could have done better, like more functions and less code in the main stack, but oh well.  I was learning.  I'll keep it so I can look back on it.
 
 Screenshot:
 
