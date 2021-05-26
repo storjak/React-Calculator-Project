@@ -1,3 +1,11 @@
+# Storjak React Calculator App Project
+
+I left the original create-react-app readme intact, other than adding this part.
+This project was when I was first learning react.  Looking back on it there are a few things I could have done better, like more functions and less code in the main stack, but oh well.  I was learning.  I'll keep it so I can look back on it.
+
+Screenshot:
+![Calculator screenshot](https://i.imgur.com/1KmQezd.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
